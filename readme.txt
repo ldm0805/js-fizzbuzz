@@ -7,7 +7,6 @@ Scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 Proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 BONUS 1: Crea un container nel DOM , aggiungendo (attraverso la funzione append()) un elemento html con il numero o la stringa corretta da mostrare.
 BONUS 2: Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz. Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
-Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 
 Suddivisione:
 1. Creare un ciclo for che conti da 1 a 100;
@@ -16,3 +15,5 @@ Suddivisione:
     2.2 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 3,ALLORA DOBBIAMO stampare "Frizz";
     2.3 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 5,ALLORA DOBBIAMO stampare "Buzz";
     2.4 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero non è multiplo di 3 e neanche multiplo di 5,ALLORA DOBBIAMO stampare il valore numerico;
+3. Creazione container;
+4. Bonus 2.
