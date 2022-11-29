@@ -10,9 +10,9 @@ BONUS 2: Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a s
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 
 Suddivisione:
-1. Creare un ciclo for che conti  da 1 a 100;
+1. Creare un ciclo for che conti da 1 a 100;
 2. Stampare i seguenti valori secondo le seguenti condizioni:
     2.1 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 3 e di 5,ALLORA DOBBIAMO stampare "FrizzBuzz";
     2.2 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 3,ALLORA DOBBIAMO stampare "Frizz";
-     2.3 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 5,ALLORA DOBBIAMO stampare "Buzz";
-       2.4 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero non è multiplo di 3 e neanche multiplo di 5,ALLORA DOBBIAMO stampare il valore numerico;
+    2.3 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 5,ALLORA DOBBIAMO stampare "Buzz";
+    2.4 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero non è multiplo di 3 e neanche multiplo di 5,ALLORA DOBBIAMO stampare il valore numerico;
