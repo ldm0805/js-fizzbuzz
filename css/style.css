@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(171, 65, 65);
+    background-color: #083b4c;
 }
 
 
@@ -11,30 +11,34 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 420px;
+    width: 800px;
 }
 
 .box{
     margin: .5em;
     display: flex;
-    height: 60px;
-    width: 60px;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    border: 1.5px solid black;
+   
 }
 
 .box-green{
-    background-color: aqua;
+    background-color: #0cd6a1;
 }
 
 .box-yellow{
-    background-color: yellow;
+    background-color: #ffd166;
 }
 
 .box-blue{
-    background-color: blue;
+    background-color: #1389b2;
 }
 
 .box-pink{
-    background-color: pink;
+    background-color: #f0466f;
 }
 
 .row-title{

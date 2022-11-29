@@ -6,13 +6,13 @@ let box;
     //2.1 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 3 e di 5,ALLORA DOBBIAMO stampare "FrizzBuzz";
      if (i % 3 == 0 && i % 5 == 0){
        console.log('FizzBuzz');
-            box = `<div class="box box-pink">Fizzbuzz</div>`
+            box = `<div class="box box-pink">FizzBuzz</div>`
      }
 
     //2.2 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 3,ALLORA DOBBIAMO stampare;
     else if (i % 3 === 0){
         console.log('Fizz')
-            box = `<div class="box box-green">fizz</div>`
+            box = `<div class="box box-green">Fizz</div>`
      }
 
     //2.3 Eseguire il controllo sul numero tramite l'operatore resto, SE il numero è multiplo di 5,ALLORA DOBBIAMO stampare "Buzz";
